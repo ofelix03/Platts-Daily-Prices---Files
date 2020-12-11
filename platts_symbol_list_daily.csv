@@ -1,0 +1,910 @@
+code,description,bate,mdc
+AAIDL00,Jet FOB Med Cargo,"l,h,c",EB
+AAIDM00,Jet FOB Med Cargo MAvg,"l,h,c",EB
+AAJUS00,ULSD 10ppmS FOB ARA Barge,"l,h,c",EB
+AAJUW00,ULSD 10ppmS FOB ARA Barge MAvg,"l,h,c",EB
+AAKOD00,Gasoline Reg Unleaded 98 FOB AR Barges,"l,h,c",EB
+AAKOE00,Gasoline Reg Unleaded 98 FOB AR Barges MAvg,"l,h,c",EB
+AAKUV00,Gasoline FOB NWE West Africa Cargo $/mt,c,EB
+AAKUV03,Gasoline FOB NWE West Africa Cargo $/mt MAvg,c,EB
+AANWC00,Gasoline CIF West Africa Cargo Eur/mt,c,EB
+AANWC03,Gasoline CIF West Africa Cargo Eur/mt MAvg,c,EB
+AAPYV10,Gasoline Unl 87 NY London MOC cts/gal,c,EB
+AAPYV13,Gasoline Unl 87 NY London MOC cts/gal MAvg,c,EB
+AAPYW10,Gasoline Unl 89 NY London MOC cts/gal,c,EB
+AAPYW13,Gasoline Unl 89 NY London MOC cts/gal MAvg,c,EB
+AAPYX10,Gasoline Unl 93 NY London MOC cts/gal,c,EB
+AAPYX13,Gasoline Unl 93 NY London MOC cts/gal MAvg,c,EB
+AAQCE00,Naphtha CIF NWE Eur/mt,"l,h,c",EB
+AAQCE03,Naphtha CIF NWE Eur/mt MAvg,"l,h,c",EB
+AAQCF00,Jet CIF NWE Cargo Eur/mt,"l,h,c",EB
+AAQCF03,Jet CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+AAQCG00,FO 1%S FOB NWE Cargo Eur/mt,"l,h,c",EB
+AAQCG03,FO 1%S FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+AAQCH00,Gasoline Prem Unleaded FOB AR Barge Eur/mt,"l,h,c",EB
+AAQCH03,Gasoline Prem Unleaded FOB AR Barge Eur/mt MAvg,"l,h,c",EB
+AAQCI00,ULSD 10ppmS FOB ARA Barge Eur/mt,"l,h,c",EB
+AAQCI03,ULSD 10ppmS FOB ARA Barge Eur/mt MAvg,"l,h,c",EB
+AAQCK00,FO 3.5%S FOB Rdam Barge Eur/mt,"l,h,c",EB
+AAQCK03,FO 3.5%S FOB Rdam Barge Eur/mt MAvg,"l,h,c",EB
+AAQZV00,Gasoline Eurobob FOB AR Barge,"l,h,c",EB
+AAQZV03,Gasoline Eurobob FOB AR Barge MAvg,"l,h,c",EB
+AAUHE00,FO 380 CST Rdam dlvd Eur/mt,"l,h,c",EB
+AAUHE03,FO 380 CST Rdam dlvd Eur/mt MAvg,"l,h,c",EB
+AAUQC00,Gasoil .005%S (50ppm) FOB ARA Barge,"l,h,c",EB
+AAUQC03,Gasoil .005%S (50ppm) FOB ARA Barge MAvg,"l,h,c",EB
+AAUQF00,Gasoil ARA 50ppmS FOB barge Eur/mt,"l,h,c",EB
+AAUQF03,Gasoil ARA 50ppmS FOB barge Eur/mt MAvg,"l,h,c",EB
+AAVBF00,ULSD 10ppmS FOB NWE Cargo,"l,h,c",EB
+AAVBF03,ULSD 10ppmS FOB NWE Cargo MAvg,"l,h,c",EB
+AAVBG00,ULSD 10ppmS CIF NWE Cargo,"l,h,c",EB
+AAVBG03,ULSD 10ppmS CIF NWE Cargo MAvg,"l,h,c",EB
+AAVBH00,ULSD 10ppmS CIF NWE Basis UK Cargo,"l,h,c",EB
+AAVBH03,ULSD 10ppmS CIF NWE Basis UK Cargo MAvg,"l,h,c",EB
+AAVBI03,ULSD 10ppmS CIF UK vs Original (French) Spec Spread S/mt Mthly,c,EB
+AAVBY21,ULSD 10ppmS CIF UK vs Original (French) Spec Spread $/mt Cal 2021 YAvg,c,EB
+AAVBY22,ULSD 10ppmS CIF UK vs Original (French) Spec Spread $/mt Cal 2022 YAvg,c,EB
+AAVBY23,ULSD 10ppmS CIF UK vs Original (French) Spec Spread $/mt Cal 2023 YAvg,c,EB
+AAVJI00,Gasoil 0.1%S FOB Med Cargo,"l,h,c",EB
+AAVJI03,Gasoil 0.1%S FOB Med Cargo MAvg,"l,h,c",EB
+AAVJJ00,Gasoil .1%S (1000ppm) CIF Med Cargo,"l,h,c",EB
+AAVJJ03,Gasoil .1%S (1000ppm) CIF Med Cargo MAvg,"l,h,c",EB
+AAWYY00,ULSD 10ppmS FOB Med Cargo,"l,h,c",EB
+AAWYY03,ULSD 10ppmS FOB Med Cargo MAvg,"l,h,c",EB
+AAWYZ00,ULSD 10ppmS CIF Med Cargo,"l,h,c",EB
+AAWYZ03,ULSD 10ppmS CIF Med Cargo MAvg,"l,h,c",EB
+AAWZA00,Gasoline Prem Unleaded 10ppmS FOB Med Cargo,"l,h,c",EB
+AAWZA03,Gasoline Prem Unleaded 10ppmS FOB Med Cargo MAvg,"l,h,c",EB
+AAWZB00,Gasoline Prem Unleaded 10ppmS CIF Med Cargo,"l,h,c",EB
+AAWZB03,Gasoline Prem Unleaded 10ppmS CIF Med Cargo MAvg,"l,h,c",EB
+AAWZC00,ULSD 10ppmS CIF NWE Basis Le Havre Cargo,"l,h,c",EB
+AAWZC03,ULSD 10ppmS CIF NWE Basis Le Havre Cargo MAvg,"l,h,c",EB
+AAWZD00,ULSD 10ppmS FOB NWE Basis Le Havre Cargo,"l,h,c",EB
+AAWZD03,ULSD 10ppmS FOB NWE Basis Le Havre Cargo MAvg,"l,h,c",EB
+AAXFQ00,Gasoline 10ppmS CIF NWE Cargo,"l,h,c",EB
+AAXFQ03,Gasoline 10ppmS CIF NWE Cargo MAvg,"l,h,c",EB
+AAYWR00,Gasoil 0.1%S FOB NWE Cargo,"l,h,c",EB
+AAYWR03,Gasoil 0.1%S FOB NWE Cargo MAvg,"l,h,c",EB
+AAYWS00,Gasoil 0.1%S CIF NWE Cargo,"l,h,c",EB
+AAYWS03,Gasoil 0.1%S CIF NWE Cargo MAvg,"l,h,c",EB
+AAYWT00,Gasoil .1%S (1000ppm) FOB ARA Barge,"l,h,c",EB
+AAYWT03,Gasoil .1%S (1000ppm) FOB ARA Barge MAvg,"l,h,c",EB
+AAYWY00,Gasoil 0.1%S FOB ARA Barge Eur/mt,"l,h,c",EB
+AAYWY03,Gasoil 0.1%S FOB ARA Barge Eur/mt MAvg,"l,h,c",EB
+AAZBN00,Jet CIF Med Cargo,"l,h,c",EB
+AAZBN03,Jet CIF Med Cargo MAvg,"l,h,c",EB
+AAZBO00,Jet CIF Med Cargo Euro/mt,"l,h,c",EB
+AAZBO03,Jet CIF Med Cargo Euro/mt MAvg,c,EB
+ABWGF00,FO 1%S CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWGF03,FO 1%S CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGG00,FO 1%S CIF NWE Cargo Eur/mt,"l,h,c",EB
+ABWGG03,FO 1%S CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGH00,FO 1%S FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWGH03,FO 1%S FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGI00,FO 1%S FOB Rdam Barge Eur/mt,"l,h,c",EB
+ABWGI03,FO 1%S FOB Rdam Barge Eur/mt MAvg,"l,h,c",EB
+ABWGK00,FO 3.5%S CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWGK03,FO 3.5%S CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGL00,FO 3.5%S CIF NWE Cargo Eur/mt,"l,h,c",EB
+ABWGL03,FO 3.5%S CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGM00,FO 3.5%S FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWGM03,FO 3.5%S FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGN00,FO 3.5%S FOB NWE Cargo Eur/mt,"l,h,c",EB
+ABWGN03,FO 3.5%S FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGO00,Gasoil 0.1%S CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWGO03,Gasoil 0.1%S CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGP00,Gasoil 0.1%S CIF NWE Cargo Eur/mt,"l,h,c",EB
+ABWGP03,Gasoil 0.1%S CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGQ00,Gasoil 0.1%S FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWGQ03,Gasoil 0.1%S FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGR00,Gasoil 0.1%S FOB NWE Cargo Eur/mt,"l,h,c",EB
+ABWGR03,Gasoil 0.1%S FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGS00,Gasoline 10ppmS CIF NWE Cargo Eur/mt,"l,h,c",EB
+ABWGS03,Gasoline 10ppmS CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGT00,Gasoline Eurobob FOB AR Barge Eur/mt,"l,h,c",EB
+ABWGT03,Gasoline Eurobob FOB AR Barge Eur/mt MAvg,"l,h,c",EB
+ABWGU00,Gasoline Prem Unleaded 10ppmS CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWGU03,Gasoline Prem Unleaded 10ppmS CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGV00,Gasoline Prem Unleaded 10ppmS FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWGV03,Gasoline Prem Unleaded 10ppmS FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWGX00,Gasoline Reg Unleaded 98 FOB AR Barge Euro/MT,"l,h,c",EB
+ABWGX03,Gasoline Reg Unleaded 98 FOB AR Barge Euro/MT MAvg,"l,h,c",EB
+ABWGZ00,Jet FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWGZ03,Jet FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHB00,Jet FOB NWE Cargo Eur/mt,"l,h,c",EB
+ABWHB03,Jet FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHC00,Jet FOB FARAG Barge Eur/mt,"l,h,c",EB
+ABWHC03,Jet FOB FARAG Barge Eur/mt MAvg,"l,h,c",EB
+ABWHD00,Naphtha CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWHD03,Naphtha CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHE00,Naphtha FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWHE03,Naphtha FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHF00,Naphtha FOB Rdam Barge Eur/mt,"l,h,c",EB
+ABWHF03,Naphtha FOB Rdam Barge Eur/mt MAvg,"l,h,c",EB
+ABWHG00,Straight Run 0.5-0.7%S FOB NWE Cargo Eur/mt,"l,h,c",EB
+ABWHG03,Straight Run 0.5-0.7%S FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHH00,ULSD 10ppmS CIF Med Cargo Eur/mt,"l,h,c",EB
+ABWHH03,ULSD 10ppmS CIF Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHI00,ULSD 10ppmS CIF NWE Basis Le Havre Cargo Eur/mt,"l,h,c",EB
+ABWHI03,ULSD 10ppmS CIF NWE Basis Le Havre Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHJ00,ULSD 10ppmS CIF NWE Basis UK Cargo Eur/mt,"l,h,c",EB
+ABWHJ03,ULSD 10ppmS CIF NWE Basis UK Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHK00,ULSD 10ppmS CIF NWE Cargo Eur/mt,"l,h,c",EB
+ABWHK03,ULSD 10ppmS CIF NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHM00,ULSD 10ppmS FOB Med Cargo Eur/mt,"l,h,c",EB
+ABWHM03,ULSD 10ppmS FOB Med Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHO00,ULSD 10ppmS FOB NWE Basis Le Havre Cargo Eur/mt,"l,h,c",EB
+ABWHO03,ULSD 10ppmS FOB NWE Basis Le Havre Cargo Eur/mt MAvg,"l,h,c",EB
+ABWHP00,ULSD 10ppmS FOB NWE Cargo Eur/mt,"l,h,c",EB
+ABWHP03,ULSD 10ppmS FOB NWE Cargo Eur/mt MAvg,"l,h,c",EB
+ABXGA00,Gasoline Prem Unleaded 10PPM FOB Med Cargo Eur cents/liter,c,EB
+ABXGA03,Gasoline Prem Unleaded 10PPM FOB Med Cargo Eur cents/liter MAvg,c,EB
+ABXGB00,Gasoline Prem Unleaded 10PPM CIF Med Cargo Eur cents/liter,c,EB
+ABXGB03,Gasoline Prem Unleaded 10PPM CIF Med Cargo Eur cents/liter MAvg,c,EB
+ABXGC00,Gasoline 10PPM CIF NWE Cargo Eur cents/liter,c,EB
+ABXGC03,Gasoline 10PPM CIF NWE Cargo Eur cents/liter MAvg,c,EB
+ABXGD00,Gasoline Eurobob FOB AR Barge Eur cents/liter,c,EB
+ABXGD03,Gasoline Eurobob FOB AR Barge Eur cents/liter MAvg,c,EB
+ABXGE00,Gasoline Unleaded 98 FOB AR Barge Eur cents/liter,c,EB
+ABXGE03,Gasoline Unleaded 98 FOB AR Barge Eur cents/liter MAvg,c,EB
+ABXGF00,Gasoline Prem Unleaded FOB AR Barge Eur cents/liter,c,EB
+ABXGF03,Gasoline Prem Unleaded FOB AR Barge Eur cents/liter MAvg,c,EB
+ABXGG00,Gasoline 10PPM CIF NWE Cargo GB pence/liter,c,EB
+ABXGG03,Gasoline 10PPM CIF NWE Cargo GB pence/liter MAvg,c,EB
+ABXGH00,Jet FOB Med Cargo Eur cents/liter,c,EB
+ABXGH03,Jet FOB Med Cargo Eur cents/liter MAvg,c,EB
+ABXGI00,Jet CIF Med Cargo Eur cents/liter,c,EB
+ABXGI03,Jet CIF Med Cargo Eur cents/liter MAvg,c,EB
+ABXGJ00,Jet FOB NWE Cargo Eur cents/liter,c,EB
+ABXGJ03,Jet FOB NWE Cargo Eur cents/liter MAvg,c,EB
+ABXGK00,Jet CIF NWE Cargo Eur cents/liter,c,EB
+ABXGK03,Jet CIF NWE Cargo Eur cents/liter MAvg,c,EB
+ABXGL00,Jet FOB FARAG Barge Euro cents/liter,c,EB
+ABXGL03,Jet FOB FARAG Barge Euro cents/liter MAvg,c,EB
+ABXGM00,Jet FOB NWE Cargo GB pence/liter,c,EB
+ABXGM03,Jet FOB NWE Cargo GB pence/liter MAvg,c,EB
+ABXGN00,Jet CIF NWE Cargo GB pence/liter,c,EB
+ABXGN03,Jet CIF NWE Cargo GB pence/liter MAvg,c,EB
+ABXGO00,ULSD 10ppm FOB Med Cargo Eur cents/liter,c,EB
+ABXGO03,ULSD 10ppm FOB Med Cargo Eur cents/liter MAvg,c,EB
+ABXGP00,ULSD 10ppm CIF Med Cargo Eur cents/liter,c,EB
+ABXGP03,ULSD 10ppm CIF Med Cargo Eur cents/liter MAvg,c,EB
+ABXGQ00,ULSD 10ppm FOB NWE Cargo Eur cents/liter,c,EB
+ABXGQ03,ULSD 10ppm FOB NWE Cargo Eur cents/liter MAvg,c,EB
+ABXGR00,ULSD 10ppm CIF NWE Cargo Eur cents/liter,c,EB
+ABXGR03,ULSD 10ppm CIF NWE Cargo Eur cents/liter MAvg,c,EB
+ABXGS00,ULSD 10ppm FOB NWE basis Le Havre Cargo Eur cents/liter,c,EB
+ABXGS03,ULSD 10ppm FOB NWE basis Le Havre Cargo Eur cents/liter MAvg,c,EB
+ABXGT00,ULSD 10ppm CIF NWE basis Le Havre Cargo Eur cents/liter,c,EB
+ABXGT03,ULSD 10ppm CIF NWE basis Le Havre Cargo Eur cents/liter MAvg,c,EB
+ABXGU00,ULSD 10ppm FOB ARA Barge Eur cents/liter,c,EB
+ABXGU03,ULSD 10ppm FOB ARA Barge Eur cents/liter MAvg,c,EB
+ABXGV00,ULSD 10ppm FOB NWE Cargo GB pence/liter,c,EB
+ABXGV03,ULSD 10ppm FOB NWE Cargo GB pence/liter MAvg,c,EB
+ABXGW00,ULSD 10ppm CIF NWE Cargo GB pence/liter,c,EB
+ABXGW03,ULSD 10ppm CIF NWE Cargo GB pence/liter MAvg,c,EB
+ABXGX00,ULSD 10ppm CIF NWE Basis UK Cargo GB pence/liter,c,EB
+ABXGX03,ULSD 10ppm CIF NWE Basis UK Cargo GB pence/liter MAvg,c,EB
+ABXGY00,Gasoil 0.1% FOB Med Cargo Eur cents/liter,c,EB
+ABXGY03,Gasoil 0.1% FOB Med Cargo Eur cents/liter MAvg,c,EB
+ABXGZ00,Gasoil 0.1% CIF Med Cargo Eur cents/liter,c,EB
+ABXGZ03,Gasoil 0.1% CIF Med Cargo Eur cents/liter MAvg,c,EB
+ABXHA00,Gasoil 0.1% FOB NWE Cargo Eur cents/liter,c,EB
+ABXHA03,Gasoil 0.1% FOB NWE Cargo Eur cents/liter MAvg,c,EB
+ABXHB00,Gasoil 0.1% CIF NWE Cargo Eur cents/liter,c,EB
+ABXHB03,Gasoil 0.1% CIF NWE Cargo Eur cents/liter MAvg,c,EB
+ABXHC00,Gasoil 50ppm FOB ARA Barge Eur cents/liter,c,EB
+ABXHC03,Gasoil 50ppm FOB ARA Barge Eur cents/liter MAvg,c,EB
+ABXHD00,Gasoil 0.1% FOB ARA Barge Eur cents/liter,c,EB
+ABXHD03,Gasoil 0.1% FOB ARA Barge Eur cents/liter MAvg,c,EB
+ABXHE00,Gasoil 0.1% FOB NWE Cargo GB pence/liter,c,EB
+ABXHE03,Gasoil 0.1% FOB NWE Cargo GB pence/liter MAvg,c,EB
+ABXHF00,Gasoil 0.1% CIF NWE Cargo GB pence/liter,c,EB
+ABXHF03,Gasoil 0.1% CIF NWE Cargo GB pence/liter MAvg,c,EB
+AGEFA00,Gasoline Eurobob E10 Barge FOB AR $/mt,c,EB
+AGEFA03,Gasoline Eurobob E10 Barge FOB AR $/mt MAvg,c,EB
+AGEFB00,Gasoline Eurobob E10 Barge FOB AR GBP p/liter,c,EB
+AGEFB03,Gasoline Eurobob E10 Barge FOB AR GBP p/liter MAvg,c,EB
+AGEFC00,Gasoline Eurobob E10 Barge FOB AR Eur cents/liter,c,EB
+AGEFC03,Gasoline Eurobob E10 Barge FOB AR Eur cents/liter MAvg,c,EB
+AGEFE00,Gasoline Eurobob E10 Barge FOB AR Eur/mt,c,EB
+AGEFE03,Gasoline Eurobob E10 Barge FOB AR Eur/mt MAvg,c,EB
+AGEFS00,Gasoline Eurobob E10 Barge FOB AR vs Gasoline Eurobob Barge FOB AR Spread,c,EB
+AGNWA00,Gasoline FOB NWE West Africa Cargo Eur/mt,c,EB
+AGNWA03,Gasoline FOB NWE West Africa Cargo Eur/mt MAvg,c,EB
+AGNWC00,Gasoline CIF West Africa Cargo $/mt,c,EB
+AGNWC03,Gasoline CIF West Africa Cargo $/mt MAvg,c,EB
+AGNWD00,Gasoil FOB STS Lome West Africa Cargo $/mt,c,EB
+AGNWD03,Gasoil FOB STS Lome West Africa Cargo $/mt MAvg,c,EB
+AGNWE00,Gasoil FOB STS Lome West Africa Cargo Eur/mt,c,EB
+AGNWE03,Gasoil FOB STS Lome West Africa Cargo Eur/mt MAvg,c,EB
+AJWAA00,Jet Fuel FOB STS Lome West Africa Cargo $/mt,c,EB
+AJWAA03,Jet Fuel FOB STS Lome West Africa Cargo $/mt MAvg,c,EB
+AJWAB00,Jet Fuel FOB STS Lome West Africa Cargo Eur/mt,c,EB
+AJWAB03,Jet Fuel FOB STS Lome West Africa Cargo Eur/mt MAvg,c,EB
+AUKDA00,Diesel 10ppm UK Cargoes CIF NWE - Original (French) Spec $/mt,c,EB
+AUKDA03,Diesel 10ppm UK Cargoes CIF NWE - Original (French) Spec $/mt MAvg,c,EB
+AUKDB00,Diesel 10ppm UK Cargoes CIF NWE - Original (French) Spec eur/mt,c,EB
+AUKDB03,Diesel 10ppm UK Cargoes CIF NWE - Original (French) Spec eur/mt MAvg,c,EB
+AUKMA00,ULSD 10ppmS CIF UK Cargo MOPL Differential $/mt,c,EB
+AUKMA03,ULSD 10ppmS CIF UK Cargo MOPL Differential $/mt MAvg,c,EB
+AUKMB00,ULSD 10ppmS CIF UK Cargo MOPL Differential Eur/mt,c,EB
+AUKMB03,ULSD 10ppmS CIF UK Cargo MOPL Differential Eur/mt MAvg,c,EB
+AUKMC00,ULSD 10ppmS CIF UK Cargo MOPL Differential pence/liter,c,EB
+AUKMC03,ULSD 10ppmS CIF UK Cargo MOPL Differential pence/liter MAvg,c,EB
+BJNWA00,Sustainable Aviation Fuel EXW NWE $/mt,c,EB
+BJNWA03,Sustainable Aviation Fuel EXW NWE $/mt MAvg,c,EB
+BJNWB00,Sustainable Aviation Fuel EXW NWE $/bbl,c,EB
+BJNWB03,Sustainable Aviation Fuel EXW NWE $/bbl MAvg,c,EB
+BJNWC00,Sustainable Aviation Fuel EXW NWE Eur/mt,c,EB
+BJNWC03,Sustainable Aviation Fuel EXW NWE Eur/mt MAvg,c,EB
+FOLNC00,Bunker FO 380 CST 3.5% Dlvd Rotterdam Eur/MWh,c,EB
+FOLNC03,Bunker FO 380 CST 3.5% Dlvd Rotterdam Eur/MWh MAvg,c,EB
+FOLND00,Marine Fuel 0.5% Bunker Dlvd Rotterdam Eur/MWh,c,EB
+FOLND03,Marine Fuel 0.5% Bunker Dlvd Rotterdam Eur/MWh MAvg,c,EB
+HVNWA00,HVO EXW NWE $/mt,c,EB
+HVNWA03,HVO EXW NWE $/mt MAvg,c,EB
+HVNWB00,HVO EXW NWE $/bbl,c,EB
+HVNWB03,HVO EXW NWE $/bbl MAvg,c,EB
+HVNWC00,HVO EXW NWE Eur/mt,c,EB
+HVNWC03,HVO EXW NWE Eur/mt MAvg,c,EB
+MFCMM00,Marine Fuel 0.5% CIF Med Cargo $/mt,c,EB
+MFCMM03,Marine Fuel 0.5% CIF Med Cargo $/mt MAvg,c,EB
+MFFMM00,Marine Fuel 0.5% FOB Med Cargo $/mt,c,EB
+MFFMM03,Marine Fuel 0.5% FOB Med Cargo $/mt MAvg,c,EB
+PAAAH00,Naphtha CIF Med Cargo $/mt,"l,h,c",EB
+PAAAH03,Naphtha CIF Med Cargo $/mt MAvg,"l,h,c",EB
+PAAAI00,Naphtha FOB Med Cargo $/mt,"l,h,c",EB
+PAAAI03,Naphtha FOB Med Cargo $/mt MAvg,"l,h,c",EB
+PAAAL00,Naphtha CIF NWE Cargo $/mt,"l,h,c",EB
+PAAAL03,Naphtha CIF NWE Cargo $/mt MAvg,"l,h,c",EB
+PAAAM00,Naphtha FOB Rdam Barge $/mt,"l,h,c",EB
+PAAAM03,Naphtha FOB Rdam Barge $/mt MAvg,"l,h,c",EB
+PAABH00,Naphtha CIF Med Cargo cts/gal,"l,h,c",EB
+PAABH03,Naphtha CIF Med Cargo cts/gal MAvg,"l,h,c",EB
+PAABI00,Naphtha FOB Med Cargo cts/gal,"l,h,c",EB
+PAABI03,Naphtha FOB Med Cargo cts/gal MAvg,"l,h,c",EB
+PAABL00,Naphtha CIF NWE Cargo cts/gal,"l,h,c",EB
+PAABL03,Naphtha CIF NWE Cargo cts/gal MAvg,"l,h,c",EB
+PAABM00,Naphtha FOB Rdam Barge cts/gal,"l,h,c",EB
+PAABM03,Naphtha FOB Rdam Barge cts/gal MAvg,"l,h,c",EB
+PGABM00,Gasoline Prem Unleaded 10ppmS FOB AR Barge,"l,h,c",EB
+PGABM03,Gasoline Prem Unleaded 10ppmS FOB AR Barges MAvg,"l,h,c",EB
+PJAAU00,Jet CIF NWE Cargo,"l,h,c",EB
+PJAAU03,Jet CIF NWE Cargo MAvg,"l,h,c",EB
+PJAAV00,Jet FOB NWE Cargo,"l,h,c",EB
+PJAAV03,Jet FOB NWE Cargo MAvg,"l,h,c",EB
+PJABA00,Jet FOB FARAG Barge,"l,h,c",EB
+PJABA03,Jet FOB FARAG Barge MAvg,"l,h,c",EB
+PKABA00,Straight Run 0.5-0.7%S FOB NWE cargo,"l,h,c",EB
+PKABA03,Straight Run 0.5-0.7%S FOB NWE cargo MAvg,"l,h,c",EB
+PUAAJ00,FO 1%S CIF Med Cargo,"l,h,c",EB
+PUAAJ03,FO 1%S CIF Med Cargo MAvg,"l,h,c",EB
+PUAAK00,FO 1%S FOB Med Cargo,"l,h,c",EB
+PUAAK03,FO 1%S FOB Med Cargo MAvg,"l,h,c",EB
+PUAAL00,FO 1%S CIF NWE Cargo,"l,h,c",EB
+PUAAL03,FO 1%S CIF NWE Cargo MAvg,"l,h,c",EB
+PUAAM00,FO 1%S FOB NWE Cargo,"l,h,c",EB
+PUAAM03,FO 1%S FOB NWE Cargo MAvg,"l,h,c",EB
+PUAAP00,FO 1%S FOB Rdam Barge,"l,h,c",EB
+PUAAP03,FO 1%S FOB Rdam Barge MAvg,"l,h,c",EB
+PUAAY00,FO 3.5%S CIF Med Cargo,"l,h,c",EB
+PUAAY03,FO 3.5%S CIF Med Cargo MAvg,"l,h,c",EB
+PUAAZ00,FO 3.5%S FOB Med Cargo,"l,h,c",EB
+PUAAZ03,FO 3.5%S FOB Med Cargo MAvg,"l,h,c",EB
+PUABA00,FO 3.5%S CIF NWE Cargo,"l,h,c",EB
+PUABA03,FO 3.5%S CIF NWE Cargo MAvg,"l,h,c",EB
+PUABB00,FO 3.5%S FOB NWE Cargo,"l,h,c",EB
+PUABB03,FO 3.5%S FOB NWE Cargo MAvg,"l,h,c",EB
+PUABC00,FO 3.5%S FOB Rdam Barge,"l,h,c",EB
+PUABC03,FO 3.5%S FOB Rdam Barge MAvg,"l,h,c",EB
+PUAGN00,FO 3.5%S 500 CST FOB Rdam Barge,"l,h,c",EB
+PUAGN03,FO 3.5%S 500 CST FOB Rdam Barge MAvg,"l,h,c",EB
+PUAGO00,FO 3.5%S 500 CST FOB Rdam Barge Eur/mt,"l,h,c",EB
+PUAGO03,FO 3.5%S 500 CST FOB Rdam Barge Eur/mt MAvg,"l,h,c",EB
+PUAYW00,FO 380 CST Rdam dlvd,"l,h,c",EB
+PUAYW03,FO 380 CST Rdam dlvd MAvg,"l,h,c",EB
+PUMFD00,Marine Fuel 0.5% FOB Rdam Barge $/mt,c,EB
+PUMFD03,Marine Fuel 0.5% FOB Rdam Barge $/mt MAvg,c,EB
+PUMFE00,Marine Fuel 0.5% FOB Rdam Barge Eur/mt,c,EB
+PUMFE03,Marine Fuel 0.5% FOB Rdam Barge Eur/mt MAvg,c,EB
+PVAAK00,FO 1%S FOB Med Cargo $/bbl,c,EB
+PVAAK03,FO 1%S FOB Med Cargo $/bbl MAvg,c,EB
+PVAAL00,FO 1%S CIF NWE Cargo $/bbl,c,EB
+PVAAL03,FO 1%S CIF NWE Cargo $/bbl MAvg,c,EB
+PVAAM00,FO 1%S FOB NWE Cargo $/bbl,c,EB
+PVAAM03,FO 1%S FOB NWE Cargo $/bbl MAvg,c,EB
+PVAAP00,FO 1%S FOB Rdam Barge $/bbl,c,EB
+PVAAP03,FO 1%S FOB Rdam Barge $/bbl MAvg,c,EB
+PVAAY00,FO 3.5%S CIF Med Cargo $/bbl,c,EB
+PVAAY03,FO 3.5%S CIF Med Cargo $/bbl MAvg,c,EB
+PVAAZ00,FO 3.5%S FOB Med Cargo $/bbl,c,EB
+PVAAZ03,FO 3.5%S FOB Med Cargo $/bbl MAvg,c,EB
+PVABA00,FO 3.5%S CIF NWE Cargo $/bbl,c,EB
+PVABA03,FO 3.5%S CIF NWE Cargo $/bbl MAvg,c,EB
+PVABB00,FO 3.5%S FOB NWE Cargo $/bbl,c,EB
+PVABB03,FO 3.5%S FOB NWE Cargo $/bbl MAvg,c,EB
+PVMFD00,Marine Fuel 0.5% FOB Rdam Barge $/bbl,c,EB
+PVMFD03,Marine Fuel 0.5% FOB Rdam Barge $/bbl MAvg,c,EB
+AAEIZ00,Escravos FOB Nigeria,"l,h,c",RI
+AAEJA00,Escravos FOB Nigeria MAvg,"l,h,c",RI
+AAEJB00,Brass River FOB Nigeria,"l,h,c",RI
+AAEJC00,Brass River FOB Nigeria MAvg,"l,h,c",RI
+AAEJD00,Kirkuk FOB Ceyhan,"l,h,c",RI
+AAEJG00,Kirkuk FOB Ceyhan MAvg,"l,h,c",RI
+AAGIZ00,North Sea Basket,"l,h,c",RI
+AAGVX00,Brent EFP Mo01,"l,h,c",RI
+AAGVX03,Brent EFP MAvg Mo01,"l,h,c",RI
+AAGVY00,Brent EFP Mo02,"l,h,c",RI
+AAGVY03,Brent EFP MAvg Mo02,"l,h,c",RI
+AAGWZ00,Forties FOB North Sea vs North Sea Dtd Strip,"l,h,c",RI
+AAGXA00,Forties FOB North Sea vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAGXB00,Ekofisk FOB North Sea vs North Sea Dtd Strip,"l,h,c",RI
+AAGXC00,Ekofisk FOB North Sea vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAGXD00,Statfjord FOB Rotterdam vs North Sea Dtd Strip,"l,h,c",RI
+AAGXE00,Statfjord FOB Rotterdam vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAGXF00,Oseberg FOB North Sea vs North Sea Dtd Strip,"l,h,c",RI
+AAGXG00,Oseberg FOB North Sea vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAGXH00,Flotta Gold FOB North Sea vs North Sea Dtd Strip,"l,h,c",RI
+AAGXI00,Flotta Gold FOB North Sea vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAGXJ00,Urals Rotterdam vs Med Dtd Strip,"l,h,c",RI
+AAGXK00,Urals Rotterdam vs Med Dtd Strip MAvg,"l,h,c",RI
+AAGXL00,Bonny Light FOB Nigeria London vs WAF Dtd Strip,"l,h,c",RI
+AAGXM00,Bonny Light FOB Nigeria London vs WAF Dtd Strip MAvg,"l,h,c",RI
+AAGXN00,Qua Iboe FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+AAGXO00,Qua Iboe FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+AAGXP00,Forcados FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+AAGXQ00,Forcados FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+AAGXR00,Escravos FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+AAGXS00,Escravos FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+AAGXT00,Cabinda FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+AAGXU00,Cabinda FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AAGXV00,Brass River FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+AAGXW00,Brass River FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+AAGXX00,Ural Med Differential,"l,h,c",RI
+AAGXY00,Urals CIF Augusta vs Med Dtd Strip MAvg,"l,h,c",RI
+AAGYD00,Suez Blend FOB Egypt vs Med Dtd Strip,"l,h,c",RI
+AAGYE00,Suez Blend FOB Egypt vs Med Dtd Strip MAvg,"l,h,c",RI
+AAGYF00,Kirkuk FOB Ceyhan vs Med Dtd Strip,"l,h,c",RI
+AAGYG00,Kirkuk FOB Ceyhan vs Med Dtd Strip MAvg,"l,h,c",RI
+AAGYH00,Es Sider FOB Libya vs Med Dtd Strip,"l,h,c",RI
+AAGYI00,Es Sider FOB Libya vs Med Dtd Strip MAvg,"l,h,c",RI
+AAGZS00,Urals FOB Novo Suez,"l,h,c",RI
+AAGZT00,Urals FOB Ventspils (ex-Baltic),"l,h,c",RI
+AAGZU00,CPC Blend CIF Augusta,"l,h,c",RI
+AAGZV00,Sweet/Sour Diff NWE,u,RI
+AAGZW00,Siberian Light CIF Augusta,"l,h,c",RI
+AAGZX00,Azeri Light CIF Augusta,"l,h,c",RI
+AAGZY00,Saharan Blend FOB Algeria,"l,h,c",RI
+AAGZZ00,Sweet/Sour Diff Med,u,RI
+AAHMM00,Syrian Light,"l,h,c",RI
+AAHMN00,Syrian Heavy,"l,h,c",RI
+AAHPH00,Urals FOB Novo Suez vs Med Dtd Strip,"l,h,c",RI
+AAHPI00,Urals FOB Ventspils vs Med Dtd Strip,"l,h,c",RI
+AAHPK00,Siberian Light CIF Augusta vs Med Dtd Strip,"l,h,c",RI
+AAHPL00,CPC Blend CIF Augusta vs Med Dtd Strip,"l,h,c",RI
+AAHPM00,Azeri Light CIF Augusta vs BTC Dtd Strip,"l,h,c",RI
+AAHPN00,Saharan Blend FOB Algeria vs Med Dtd Strip,"l,h,c",RI
+AAHXB00,Ekofisk CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAHXB03,Ekofisk CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAHXC00,Forties CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAHXC03,Forties CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAHXD00,Oseberg CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAHXD03,Oseberg CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAHXE00,North Sea CIF Rotterdam Dated Strip,c,RI
+AAHXE03,North Sea CIF Rotterdam Dated Strip MAvg,c,RI
+AAIIZ00,Lower Zakum Spot Asia Weekly,u,RI
+AAISU00,Troll FOB North Sea MAvg,c,RI
+AAIVI00,Dated Brent 5 Day Rolling Avg,u,RI
+AAJHV00,Urals FOB Novo Suez MAvg,"l,h,c",RI
+AAJHX00,Urals FOB Ventspils (ex-Baltic) MAvg,"l,h,c",RI
+AAJHY00,CPC Blend CIF Augusta MAvg,"l,h,c",RI
+AAJHZ00,Siberian Light CIF Augusta MAvg,"l,h,c",RI
+AAJIA00,Azeri Light CIF Augusta MAvg,"l,h,c",RI
+AAJIB00,Saharan Blend FOB Algeria MAvg,"l,h,c",RI
+AAJIC00,Urals FOB Novo Suez vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJID00,Urals FOB Ventspils vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJIE00,Siberian Light CIF Augusta vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJIF00,CPC Blend CIF Augusta vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJIG00,Azeri Light CIF Augusta vs BTC Dtd Strip MAvg,"l,h,c",RI
+AAJIH00,Saharan Blend FOB Algeria vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJJF00,Syrian Heavy vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJJG00,Syrian Light vs Med Dtd Strip MAvg,"l,h,c",RI
+AAJJH00,Sweet/Sour Diff Med MAvg,c,RI
+AAJJI00,Sweet/Sour Diff NWE MAvg,c,RI
+AAJJJ00,Syrian Heavy MAvg,"l,h,c",RI
+AAJJK00,Syrian Light MAvg,"l,h,c",RI
+AAKWH00,North Sea Dated Strip,"l,h,c",RI
+AAKWI00,North Sea Dated Strip MAvg,"l,h,c",RI
+AALAU00,Brent Mo01 vs WTI Mo01,"l,h,c",RI
+AALAU03,Brent Mo01 vs WTI Mo01 MAvg,"l,h,c",RI
+AALAV00,Brent Mo02 vs WTI Mo02,"l,h,c",RI
+AALAV03,Brent Mo02 vs WTI Mo02 MAvg,"l,h,c",RI
+AALAY00,Brent Mo03 vs WTI Mo03,c,RI
+AALAY03,Brent Mo03 vs WTI Mo03 MAvg,c,RI
+AALDF00,Med Dated Brent Strip 13-28 Day,"l,h,c",RI
+AALDG00,Med Dated Brent Strip 13-28 Day MAvg,"l,h,c",RI
+AALGM00,15-45 Day Dated Strip,"l,h,c",RI
+AALGN00,15-45 Day Dated Strip MAvg,"l,h,c",RI
+AALIN00,Urals Recombined (RCMB),"l,h,c",RI
+AALIO00,Urals Recombined (RCMB) MAvg,"l,h,c",RI
+AALOU00,Syrian Light vs Med Dtd Strip,"l,h,c",RI
+AALOV00,Syrian Heavy vs Med Dtd Strip,"l,h,c",RI
+AALVX00,CPC Blend FOB Suez,"l,h,c",RI
+AALVY00,CPC Blend FOB Suez MAvg,"l,h,c",RI
+AALVZ00,CPC Blend FOB Suez vs Med Dtd Strip,"l,h,c",RI
+AALWC00,CPC Blend FOB Suez vs Med Dtd Strip MAvg,"l,h,c",RI
+AAMVY00,Brent EFP Mo03,c,RI
+AAMVY03,Brent EFP MAvg Mo03,c,RI
+AAOFD00,Dated North Sea Light,"l,h,c",RI
+AAOFD03,Dated North Sea Light MAvg,"l,h,c",RI
+AAOFV00,CPC Blend FOB Afra,"l,h,c",RI
+AAOFV03,CPC Blend FOB Afra MAvg,"l,h,c",RI
+AAOFW00,CPC Blend FOB Afra vs Med Dtd Strip,"l,h,c",RI
+AAOFW03,CPC Blend FOB Afra vs Med Dtd Strip MAvg,"l,h,c",RI
+AAOTH00,Urals FOB Novo Afra,"l,h,c",RI
+AAOTH03,Urals FOB Novo Afra MAvg,"l,h,c",RI
+AAOTI00,Urals FOB Novo Afra vs Med Dtd Strip,"l,h,c",RI
+AAOTI03,Urals FOB Novo Afra vs Med Dtd Strip MAvg,"l,h,c",RI
+AAOZV00,Tapis FOB Malaysia London,u,RI
+AAOZV03,Tapis FOB Malaysia London MAvg,c,RI
+AAOZX00,Kikeh FOB Sabah Malaysia London,u,RI
+AAOZX03,Kikeh FOB Sabah Malaysia London MAvg,c,RI
+AAPAB00,Cossack FOB Australia London,u,RI
+AAPAB03,Cossack FOB Australia London MAvg,c,RI
+AAPAD00,Kutubu FOB Papua New Guinea London,u,RI
+AAPAD03,Kutubu FOB Papua New Guinea London MAvg,c,RI
+AAPAF00,Nanhai Light FOB China London,u,RI
+AAPAF03,Nanhai Light FOB China London MAvg,c,RI
+AAPAH00,North West Shelf FOB Australia London,u,RI
+AAPAH03,North West Shelf FOB Australia London MAvg,c,RI
+AAPAJ00,Bach Ho FOB Vung Tao Vietnam London,u,RI
+AAPAJ03,Bach Ho FOB Vung Tao Vietnam London MAvg,c,RI
+AAPAL00,Nile Blend FOB Sudan London,u,RI
+AAPAL03,Nile Blend FOB Sudan London MAvg,c,RI
+AAPAN00,Sokol CFR Japan/Korea London,u,RI
+AAPAN03,Sokol CFR Japan/Korea London MAvg,c,RI
+AAPAP00,Labuan FOB Malaysia London,u,RI
+AAPAP03,Labuan FOB Malaysia London MAvg,c,RI
+AAPAR00,Miri FOB Malaysia London,u,RI
+AAPAR03,Miri FOB Malaysia London MAvg,c,RI
+AAPAT00,Gippsland FOB Australia London,u,RI
+AAPAT03,Gippsland FOB Australia London MAvg,c,RI
+AAPAV00,Daqing FOB China London,u,RI
+AAPAV03,Daqing FOB China London MAvg,c,RI
+AAPAX00,Shengli FOB China London,u,RI
+AAPAX03,Shengli FOB China London MAvg,c,RI
+AAPAZ00,Minas FOB Indonesia London,u,RI
+AAPAZ03,Minas FOB Indonesia London MAvg,c,RI
+AAPBB00,Attaka FOB Indonesia London,u,RI
+AAPBB03,Attaka FOB Indonesia London MAvg,c,RI
+AAPBD00,Senipah FOB Indonesia London,u,RI
+AAPBD03,Senipah FOB Indonesia London MAvg,c,RI
+AAPBF00,Ardjuna FOB Indonesia London MOC,u,RI
+AAPBF03,Ardjuna FOB Indonesia London MOC MAvg,c,RI
+AAPBH00,Handil Mix FOB Indonesia London,u,RI
+AAPBH03,Handil Mix FOB Indonesia London MAvg,c,RI
+AAPBJ00,Cinta FOB Indonesia London,u,RI
+AAPBJ03,Cinta FOB Indonesia London MAvg,c,RI
+AAPBL00,Duri FOB Indonesia London,u,RI
+AAPBL03,Duri FOB Indonesia London MAvg,c,RI
+AAPBN00,Widuri FOB Indonesia London,u,RI
+AAPBN03,Widuri FOB Indonesia London MAvg,c,RI
+AAPBP00,Belida FOB Indonesia London,u,RI
+AAPBP03,Belida FOB Indonesia London MAvg,c,RI
+AAPBR00,Banyu Urip FOB Indonesia at London MOC,c,RI
+AAPBR03,Banyu Urip FOB Indonesia at London MOC MAvg,c,RI
+AAPYR00,Dated Brent Eur/bbl,"l,h,c",RI
+AAPYR03,Dated Brent Eur/bbl MAvg,"l,h,c",RI
+AAPYS00,Urals CIF Augusta Eur/bbl,"l,h,c",RI
+AAPYS03,Urals CIF Augusta Eur/bbl MAvg,"l,h,c",RI
+AAPYT00,WTI 16:30 London Eur/Bbl Mo01,"l,h,c",RI
+AAPYT03,WTI 16:30 London Eur/Bbl Mo01 MAvg,"l,h,c",RI
+AAPYU00,Mars 16:30 London Eur/Bbl Mo01,"l,h,c",RI
+AAPYU03,Mars 16:30 London Eur/Bbl Mo01 MAvg,"l,h,c",RI
+AAQAR00,WTI 16:30 London Mo01,"l,h,c",RI
+AAQAR03,WTI 16:30 London Mo01 PAvg,"l,h,c",RI
+AAQAR13,WTI 16:30 London Mo01 MAvg,"l,h,c",RI
+AAQAS00,WTI Mo01 EFP London,"l,h,c",RI
+AAQAS03,WTI Mo01 EFP London PAvg,"l,h,c",RI
+AAQAS13,WTI Mo01 EFP London 16:30 MAvg,"l,h,c",RI
+AAQAT00,WTI 16:30 London Mo02,"l,h,c",RI
+AAQAT03,WTI 16:30 London Mo02 PAvg,"l,h,c",RI
+AAQAT13,WTI 16:30 London Mo02 MAvg,"l,h,c",RI
+AAQAU00,WTI Mo02 EFP London,"l,h,c",RI
+AAQAU03,WTI Mo02 EFP London PAvg,"l,h,c",RI
+AAQAU13,WTI Mo02 EFP London 16:30 MAvg,"l,h,c",RI
+AAQAV00,WTI 16:30 London Mo03,"l,h,c",RI
+AAQAV03,WTI 16:30 London Mo03 PAvg,"l,h,c",RI
+AAQAV13,WTI 16:30 London Mo03 MAvg,"l,h,c",RI
+AAQAW00,WTI Mo03 EFP London,"l,h,c",RI
+AAQAW03,WTI Mo03 EFP London PAvg,"l,h,c",RI
+AAQAW13,WTI Mo03 EFP London 16:30 MAvg,"l,h,c",RI
+AAQAX00,Mars 16:30 London Mo01,"l,h,c",RI
+AAQAX03,Mars 16:30 London Mo01 PAvg,"l,h,c",RI
+AAQAX13,Mars 16:30 London Mo01 MAvg,"l,h,c",RI
+AAQAY00,Mars Mo01 vs WTI Mo01 London,"l,h,c",RI
+AAQAY03,Mars Mo01 vs WTI Mo01 London PAvg,"l,h,c",RI
+AAQAY13,Mars Mo01 vs WTI Mo01 London 16:30 MAvg,"l,h,c",RI
+AAQAZ00,Mars 16:30 London Mo02,"l,h,c",RI
+AAQAZ03,Mars 16:30 London Mo02 PAvg,"l,h,c",RI
+AAQAZ13,Mars 16:30 London Mo02 MAvg,"l,h,c",RI
+AAQBA00,Mars Mo02 vs WTI Mo02 London,"l,h,c",RI
+AAQBA03,Mars Mo02 vs WTI Mo02 London PAvg,"l,h,c",RI
+AAQBA13,Mars Mo02 vs WTI Mo01 London 16:30 MAvg,"l,h,c",RI
+AAQBB00,LLS 16:30 London Mo01,"l,h,c",RI
+AAQBB03,LLS 16:30 London Mo01 PAvg,"l,h,c",RI
+AAQBB13,LLS 16:30 London Mo01 MAvg,"l,h,c",RI
+AAQBC00,LLS Mo01 vs WTI Mo01 London,"l,h,c",RI
+AAQBC03,LLS Mo01 vs WTI Mo01 London PAvg,"l,h,c",RI
+AAQBC13,LLS Mo01 vs WTI Mo01 London 16:30 MAvg,"l,h,c",RI
+AAQBD00,LLS 16:30 London Mo02,"l,h,c",RI
+AAQBD03,LLS 16:30 London Mo02 PAvg,"l,h,c",RI
+AAQBD13,LLS 16:30 London Mo02 MAvg,"l,h,c",RI
+AAQBE00,LLS Mo02 vs WTI Mo02 London,"l,h,c",RI
+AAQBE03,LLS Mo02 vs WTI Mo02 London PAvg,"l,h,c",RI
+AAQBE13,LLS Mo02 vs WTI Mo02 London 16:30 MAvg,"l,h,c",RI
+AAQYX00,Dalia FOB Angola,"l,h,c",RI
+AAQYX03,Dalia FOB Angola MAvg,"l,h,c",RI
+AAQYY00,Dalia FOB Angola vs 30-60 Day Dated Strip,"l,h,c",RI
+AAQYY03,Dalia FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AAQYZ00,Nemba FOB Angola,"l,h,c",RI
+AAQYZ03,Nemba FOB Angola MAvg,"l,h,c",RI
+AAQZA00,Nemba FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+AAQZA03,Nemba FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AAQZB00,Agbami FOB Nigeria,"l,h,c",RI
+AAQZB03,Agbami FOB Nigeria MAvg,"l,h,c",RI
+AAQZC00,Agbami FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+AAQZC03,Agbami FOB Nigeria vs WAF Dtd Strip Mavg,"l,h,c",RI
+AARAA00,Dar Blend FOB Sudan London,u,RI
+AARAA03,Dar Blend FOB Sudan London MAvg,c,RI
+AARAJ00,Vincent FOB Australia London,u,RI
+AARAJ03,Vincent FOB Australia London MAvg,c,RI
+AARAQ00,Su Tu Den FOB Vietnam London,u,RI
+AARAQ03,Su Tu Den FOB Vietnam London MAvg,c,RI
+AARAU00,South Pars Condensate FOB Iran London,u,RI
+AARAU03,South Pars Condensate FOB Iran London MAvg,c,RI
+AARBA00,Qatar LSC London,u,RI
+AARBA03,Qatar LSC London MAvg,c,RI
+AARBX00,ADB Strip London,u,RI
+AARBX03,ADB Strip London MAvg,c,RI
+AARBY00,ADB Strip MidEast London,u,RI
+AARBY03,ADB Strip MidEast London MAvg,c,RI
+AAREN00,Sakhalin Blend CFR London 16:30,c,RI
+AAREN03,Sakhalin Blend CFR London 16:30 MAvg,c,RI
+AARWD00,ESPO FOB Kozmino Mo01 London,"l,h,c",RI
+AARWD03,ESPO FOB Kozmino Mo01 London MAvg,"l,h,c",RI
+AARWE00,ESPO FOB Kozmino Mo01 London vs Angola Dtd Brent Strip,"l,h,c",RI
+AARWE03,ESPO FOB Kozmino Mo01 London vs Angola Dtd Brent Strip MAvg,"l,h,c",RI
+AASAS00,Statfjord CIF Rotterdam,"l,h,c",RI
+AASAS03,Statfjord CIF Rotterdam MAvg,"l,h,c",RI
+AASAT00,Statfjord CIF Rotterdam vs North Sea Dtd Strip,"l,h,c",RI
+AASAT03,Statfjord CIF Rotterdam vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AASAU00,Gullfaks CIF Rotterdam,"l,h,c",RI
+AASAU03,Gullfaks CIF Rotterdam MAvg,"l,h,c",RI
+AASAV00,Gullfaks CIF Rotterdam vs North Sea Dtd Strip,"l,h,c",RI
+AASAV03,Gullfaks CIF Rotterdam vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AASCN00,Malaysian Grade Kimanis London 16:30,c,RI
+AASCN03,Malaysian Grade Kimanis London 16:30 MAvg,c,RI
+AASJD00,Girassol FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+AASJD03,Girassol FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AASJE00,Kissanje FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+AASJE03,Kissanje FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AASJF00,Hungo FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+AASJF03,Hungo FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+AASLJ00,Hungo FOB Angola,"l,h,c",RI
+AASLJ03,Hungo FOB Angola MAvg,"l,h,c",RI
+AASLK00,Kissanje FOB Angola,"l,h,c",RI
+AASLK03,Kissanje FOB Angola MAvg,"l,h,c",RI
+AASNL00,Girassol FOB Angola,"l,h,c",RI
+AASNL03,Girassol FOB Angola MAvg,"l,h,c",RI
+AATHM00,Azeri Light FOB Supsa,"l,h,c",RI
+AATHM03,Azeri Light FOB Supsa MAvg,"l,h,c",RI
+AATHN00,Azeri Light FOB Supsa vs BTC Dtd Strip,"l,h,c",RI
+AATHN03,Azeri Light FOB Supsa vs BTC Dtd Strip MAvg,"l,h,c",RI
+AAUFH00,BTC FOB Ceyhan,"l,h,c",RI
+AAUFH03,BTC FOB Ceyhan MAvg,"l,h,c",RI
+AAUFI00,BTC Dated Brent Strip,"l,h,c",RI
+AAUFI03,BTC Dated Brent Strip MAvg,"l,h,c",RI
+AAUFJ00,BTC FOB Ceyhan vs BTC Dtd Strip,"l,h,c",RI
+AAUFJ03,BTC FOB Ceyhan vs BTC Dtd Strip MAvg,"l,h,c",RI
+AAUFK00,Azeri Light FOB Ceyhan Afra,"l,h,c",RI
+AAUFK03,Azeri Light FOB Ceyhan Afra MAvg,"l,h,c",RI
+AAUFL00,Azeri Light FOB Ceyhan Afra vs BTC Dtd Strip,"l,h,c",RI
+AAUFL03,Azeri Light FOB Ceyhan Afra vs BTC Dtd Strip MAvg,"l,h,c",RI
+AAUFM00,Azeri Light FOB Ceyhan Suez,"l,h,c",RI
+AAUFM03,Azeri Light FOB Ceyhan Suez MAvg,"l,h,c",RI
+AAUFN00,Azeri Light FOB Ceyhan Suez vs BTC Dtd Strip,"l,h,c",RI
+AAUFN03,Azeri Light FOB Ceyhan Suez vs BTC Dtd Strip MAvg,"l,h,c",RI
+AAUJP00,Urals FOB Novo Rb/Bbl,"l,h,c",RI
+AAUJP03,Urals FOB Novo Rb/BBl MAvg,"l,h,c",RI
+AAUJQ00,Urals FOB Baltic Rb/bbl,"l,h,c",RI
+AAUJQ03,Urals FOB Baltic Rb/bbl MAvg,"l,h,c",RI
+AAUJR00,Urals FOB Novo Afra Rb/Bbl,"l,h,c",RI
+AAUJR03,Urals FOB Novo Afra Rb/Bbl MAvg,"l,h,c",RI
+AAUJS00,Urals CIF Augusta Rb/bbl,"l,h,c",RI
+AAUJS03,Urals CIF Augusta Rb/bbl MAvg,"l,h,c",RI
+AAUJT00,Urals CIF Rdam Rb/bbl,"l,h,c",RI
+AAUJT03,Urals CIF Rdam Rb/bbl MAvg,"l,h,c",RI
+AAUXL00,Forties Sulfur De-Escalator,u,RI
+AAVJA00,BNB FOB North Sea,"l,h,c",RI
+AAVJA03,BNB FOB North Sea MAvg,"l,h,c",RI
+AAVJA04,BNB FOB North Sea WAvg,"l,h,c",RI
+AAVJB00,BNB FOB North Sea vs North Sea Dtd Strip,"l,h,c",RI
+AAVJB03,BNB FOB North Sea vs North Sea Dtd Strip MAvg,"l,h,c",RI
+AAVJC00,BNB CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAVJC03,BNB CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAVJF00,Dated Brent CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAVJF03,Dated Brent CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAVJG00,Dated North Sea Light CIF Rotterdam,c,RI
+AAVJG03,Dated North Sea Light CIF Rotterdam MAvg,c,RI
+AAWEP00,LLS 16:30 London Eur/Bbl Mo01,c,RI
+AAWEP03,LLS 16:30 London Eur/Bbl Mo01 MAvg,c,RI
+AAWEX00,Troll FOB North Sea,"l,h,c",RI
+AAWEX03,Troll FOB North Sea MAvg,"l,h,c",RI
+AAWEY00,Troll FOB North Sea vs North Sea Dated Strip,"l,h,c",RI
+AAWEY03,Troll FOB North Sea vs North Sea Dated Strip MAvg,"l,h,c",RI
+AAWEZ00,DUC FOB North Sea,"l,h,c",RI
+AAWEZ03,DUC FOB North Sea MAvg,"l,h,c",RI
+AAWFH00,LLS 16:30 London Eur/Bbl Mo02,c,RI
+AAWFH03,LLS 16:30 London Eur/Bbl Mo02 MAvg,c,RI
+AAWFI00,Mars 16:30 London Eur/Bbl Mo02,c,RI
+AAWFI03,Mars 16:30 London Eur/Bbl Mo02 MAvg,c,RI
+AAWFJ00,WTI 16:30 London Eur/Bbl Mo02,c,RI
+AAWFJ03,WTI 16:30 London Eur/Bbl Mo02 MAvg,c,RI
+AAWFK00,WTI 16:30 London Eur/Bbl Mo03,c,RI
+AAWFK03,WTI 16:30 London Eur/Bbl Mo03 MAvg,c,RI
+AAWFL00,DUC FOB North Sea vs North Sea Dated Strip,"l,h,c",RI
+AAWFL03,DUC FOB North Sea vs North Sea Dated Strip MAvg,"l,h,c",RI
+AAWSA00,MEC Mo01,"l,h,c",RI
+AAWSA03,MEC Mo01 MAvg,"l,h,c",RI
+AAWSB00,MEC Mo02,"l,h,c",RI
+AAWSB03,MEC Mo02 MAvg,"l,h,c",RI
+AAWSC00,MEC Mo03,"l,h,c",RI
+AAWSC03,MEC Mo03 MAvg,"l,h,c",RI
+AAWVH00,Urals FOB Primorsk,"l,h,c",RI
+AAWVH03,Urals FOB Primorsk MAvg,"l,h,c",RI
+AAWVI00,Urals Primorsk vs Med Dtd Strip,"l,h,c",RI
+AAWVI03,Urals Primorsk vs Med Dtd Strip MAvg,"l,h,c",RI
+AAWXV00,Brent NX EFP Mo01,"l,h,c",RI
+AAWXV03,Brent NX EFP Mo01 MAvg,"l,h,c",RI
+AAWXW00,Brent NX EFP Mo02,"l,h,c",RI
+AAWXW03,Brent NX EFP Mo02 MAvg,"l,h,c",RI
+AAWXY00,Brent NX EFP Mo03,"l,h,c",RI
+AAWXY03,Brent NX EFP Mo03 MAvg,"l,h,c",RI
+AAXDW00,Oseberg FOB North Sea QP Current Month $/Bbl,c,RI
+AAXDX00,Oseberg FOB North Sea QP Mo01 $/Bbl,c,RI
+AAXDY00,Ekofisk FOB North Sea QP Current Month $/Bbl,c,RI
+AAXDZ00,Ekofisk FOB North Sea QP Mo01 $/Bbl,c,RI
+AAXEZ00,Dated Brent FOB North Sea 10-25 days $/Bbl,"l,h,c",RI
+AAXEZ03,Dated Brent FOB North Sea 10-25 days $/Bbl MAvg,"l,h,c",RI
+AAXJM00,Troll CIF Rotterdam Eur/Bbl,c,RI
+AAXJM03,Troll CIF Rotterdam Eur/Bbl MAvg,c,RI
+AAXJN00,Troll CIF Rotterdam vs Fwd Dated Brent,c,RI
+AAXJN03,Troll CIF Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AAXJO00,Troll CIF Rotterdam $/Bbl,c,RI
+AAXJO03,Troll CIF Rotterdam $/Bbl MAvg,c,RI
+AAXRK00,Dated Brent Strip 30-60 Days,"l,h,c",RI
+AAXRK03,Dated Brent Strip 30-60 Days MAvg,"l,h,c",RI
+AAXUO00,Erha FOB Nigeria,"l,h,c",RI
+AAXUO03,Erha FOB Nigeria MAvg,"l,h,c",RI
+AAXUP00,Erha FOB Nigeria vs Dated Brent,"l,h,c",RI
+AAXUP03,Erha FOB Nigeria vs Dated Brent MAvg,"l,h,c",RI
+AAXUQ00,Usan FOB Nigeria,"l,h,c",RI
+AAXUQ03,Usan FOB Nigeria MAvg,"l,h,c",RI
+AAXUR00,Usan FOB Nigeria vs Dated Brent,"l,h,c",RI
+AAXUR03,Usan FOB Nigeria vs Dated Brent MAvg,"l,h,c",RI
+AAXUS00,Jubilee FOB Ghana,"l,h,c",RI
+AAXUS03,Jubilee FOB Ghana MAvg,"l,h,c",RI
+AAXUT00,Jubilee FOB Ghana vs Dated Brent,"l,h,c",RI
+AAXUT03,Jubilee FOB Ghana vs Dated Brent MAvg,"l,h,c",RI
+AAXUU00,Doba FOB Cameroon,"l,h,c",RI
+AAXUU03,Doba FOB Cameroon MAvg,"l,h,c",RI
+AAXUV00,Doba FOB Cameroon vs Dated Brent,"l,h,c",RI
+AAXUV03,Doba FOB Cameroon vs Dated Brent MAvg,"l,h,c",RI
+AAXYD00,WTI MEH Mo02 at London MOC,c,RI
+AAXYD03,WTI MEH Mo02 at London MOC MAvg,c,RI
+AAXZA00,Brent NX Mo01,"l,h,c",RI
+AAXZA03,Brent NX Mo01 MAvg,"l,h,c",RI
+AAXZB00,Brent NX Mo01 vs WTI Mo01,"l,h,c",RI
+AAXZB03,Brent NX Mo01 vs WTI Mo01 MAvg,"l,h,c",RI
+AAXZC00,Brent NX Mo02,"l,h,c",RI
+AAXZC03,Brent NX Mo02 MAvg,"l,h,c",RI
+AAXZD00,Brent NX Mo02 vs WTI Mo02,"l,h,c",RI
+AAXZD03,Brent NX Mo02 vs WTI Mo02 MAvg,"l,h,c",RI
+AAXZE00,Brent NX Mo03,"l,h,c",RI
+AAXZE03,Brent NX Mo03 MAvg,"l,h,c",RI
+AAXZF00,Brent NX Mo03 vs WTI Mo03,"l,h,c",RI
+AAXZF03,Brent NX Mo03 vs WTI Mo03 MAvg,"l,h,c",RI
+AAXZG00,Dated Brent NX,"l,h,c",RI
+AAXZG03,Dated Brent NX MAvg,"l,h,c",RI
+AAYRZ00,WTI MEH Mo01 at London MOC,c,RI
+AAYRZ03,WTI MEH Mo01 at London MOC MAvg,c,RI
+AAYSA00,WTI MEH Mo01 Eur/Bbl at London MOC,c,RI
+AAYSA03,WTI MEH Mo01 Eur/Bbl at London MOC MAvg,c,RI
+AAYTA00,WTI MEH Mo01 vs 1st Line WTI at London MOC,c,RI
+AAYTA03,WTI MEH Mo01 vs 1st Line WTI at London MOC MAvg,c,RI
+AAYVA00,WTI MEH Mo02 Eur/Bbl at London MOC,c,RI
+AAYVA03,WTI MEH Mo02 Eur/Bbl at London MOC MAvg,c,RI
+AAYWA00,WTI MEH Mo02 vs 2nd Line WTI at London MOC,c,RI
+AAYWA03,WTI MEH Mo02 vs 2nd Line WTI at London MOC MAvg,c,RI
+ABWGE00,ESPO FOB Kozmino Mo01 London Euro/Bbl,"l,h,c",RI
+ABWGE03,ESPO FOB Kozmino Mo01 London Euro/Bbl MAvg,"l,h,c",RI
+ADBRA00,Dated Brent Strip 23-63 Days,c,RI
+ADBRA03,Dated Brent Strip 23-63 Days MAvg,c,RI
+ADFCD00,DFC FOB London 16:30,c,RI
+ADFCD03,DFC FOB London 16:30 MAvg,c,RI
+AEFAA00,Eagle Ford 45 DAP Basis Augusta,c,RI
+AEFAA03,Eagle Ford 45 DAP Basis Augusta MAvg,c,RI
+AEFAB00,Eagle Ford 45 DAP Basis Augusta vs Fwd Dated Brent,c,RI
+AEFAB03,Eagle Ford 45 DAP Basis Augusta vs Fwd Dated Brent MAvg,c,RI
+AEFAC00,Eagle Ford 45 DAP Basis Rotterdam,c,RI
+AEFAC03,Eagle Ford 45 DAP Basis Rotterdam MAvg,c,RI
+AEFAD00,Eagle Ford 45 DAP Basis Rotterdam vs Fwd Dated Brent,c,RI
+AEFAD03,Eagle Ford 45 DAP Basis Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AFONA00,Egina FOB Nigeria,c,RI
+AFONA03,Egina FOB Nigeria MAvg,c,RI
+AFONB00,Egina FOB Nigeria vs Dated Brent,c,RI
+AFONB03,Egina FOB Nigeria vs Dated Brent MAvg,c,RI
+AIHKA00,Iranian Heavy FOB Kharg Island (Med),c,RI
+AIHKA03,Iranian Heavy FOB Kharg Island (Med) MAvg,c,RI
+AIHKA04,Iranian Heavy FOB Kharg Island (Med) WAvg,c,RI
+AIHKB00,Iranian Heavy FOB Kharg Island (Med) vs Med Dtd Strip,c,RI
+AIHKB03,Iranian Heavy FOB Kharg Island (Med) vs Med Dtd Strip MAvg,c,RI
+AILKA00,Iranian Light FOB Kharg Island (Med),c,RI
+AILKA03,Iranian Light FOB Kharg Island (Med) MAvg,c,RI
+AILKA04,Iranian Light FOB Kharg Island (Med) WAvg,c,RI
+AILKB00,Iranian Light FOB Kharg Island (Med) vs Med Dtd Strip,c,RI
+AILKB03,Iranian Light FOB Kharg Island (Med) vs Med Dtd Strip MAvg,c,RI
+AJSVA00,Johan Sverdrup FOB North Sea,c,RI
+AJSVA03,Johan Sverdrup FOB North Sea MAvg,c,RI
+AJSVB00,Johan Sverdrup FOB North Sea vs North Sea Dtd Strip,c,RI
+AJSVB03,Johan Sverdrup FOB North Sea vs North Sea Dtd Strip MAvg,c,RI
+ALVHA00,Alvheim CIF Rotterdam,c,RI
+ALVHA03,Alvheim CIF Rotterdam MAvg,c,RI
+ALVHB00,Alvheim CIF Rotterdam vs North Sea Dtd Strip,c,RI
+ALVHB03,Alvheim CIF Rotterdam vs North Sea Dtd Strip MAvg,c,RI
+AODFA00,Urals Observed Delivery Factor,c,RI
+ASGCA00,Asgard CIF Rotterdam,c,RI
+ASGCA03,Asgard CIF Rotterdam MAvg,c,RI
+ASGCB00,Asgard CIF Rotterdam vs North Sea Dtd Strip,c,RI
+ASGCB03,Asgard CIF Rotterdam vs North Sea Dtd Strip MAvg,c,RI
+ATFNA00,Troll FOB North Sea QP Mo01 $/Bbl,c,RI
+ATFNB00,Troll FOB North Sea QP Current Month $/Bbl,c,RI
+AWTIA00,WTI Midland DAP Basis Augusta,c,RI
+AWTIA03,WTI Midland DAP Basis Augusta MAvg,c,RI
+AWTIB00,WTI Midland DAP Basis Augusta vs Fwd Dated Brent,c,RI
+AWTIB03,WTI Midland DAP Basis Augusta vs Fwd Dated Brent MAvg,c,RI
+AWTIC00,WTI Midland DAP Basis Rotterdam,c,RI
+AWTIC03,WTI Midland DAP Basis Rotterdam MAvg,c,RI
+AWTID00,WTI Midland DAP Basis Rotterdam vs Fwd Dated Brent,c,RI
+AWTID03,WTI Midland DAP Basis Rotterdam vs Fwd Dated Brent MAvg,c,RI
+AWTIE00,WTI Midland FOB Scapa Flow $/Bbl,c,RI
+AWTIE03,WTI Midland FOB Scapa Flow $/Bbl MAvg,c,RI
+AWTIF00,WTI Midland FOB Scapa Flow vs Fwd Dated Brent $/Bbl,c,RI
+AWTIF03,WTI Midland FOB Scapa Flow vs Fwd Dated Brent $/Bbl MAvg,c,RI
+AWTIG00,WTI Midland FOB Scapa Flow Eur/Bbl,c,RI
+AWTIG03,WTI Midland FOB Scapa Flow Eur/Bbl MAvg,c,RI
+AWTIH00,WTI Midland FOB Scapa Flow vs Fwd Dated Brent Eur/Bbl,c,RI
+AWTIH03,WTI Midland FOB Scapa Flow vs Fwd Dated Brent Eur/Bbl MAvg,c,RI
+BVBM023,Brent Mo01 vs Brent Mo02 Intermonth Spread,"l,h,c",RI
+BVBM034,Brent Mo02 vs Brent Mo03 Intermonth Spread,c,RI
+BVDM021,Brent Mo02 vs Dubai Mo01,"l,h,c",RI
+BVDM032,Brent Mo03 vs Dubai Mo02,"l,h,c",RI
+CRPOA03,OPEC Crude Production Algeria Est MAvg,u,RI
+CRPOB03,OPEC Crude Production Angola Est MAvg,u,RI
+CRPOC03,OPEC Crude Production Ecuador Est MAvg,u,RI
+CRPOD03,OPEC Crude Production Iran Est MAvg,u,RI
+CRPOE03,OPEC Crude Production Iraq Est MAvg,u,RI
+CRPOF03,OPEC Crude Production Kuwait Est MAvg,u,RI
+CRPOG03,OPEC Crude Production Libya Est MAvg,u,RI
+CRPOH03,OPEC Crude Production Nigeria Est MAvg,u,RI
+CRPOI03,OPEC Crude Production Qatar Est MAvg,u,RI
+CRPOJ03,OPEC Crude Production Saudi Arabia Est MAvg,u,RI
+CRPOK03,OPEC Crude Production UAE Est MAvg,u,RI
+CRPOL03,OPEC Crude Production Venezuela Est MAvg,u,RI
+CRPOM03,OPEC Crude Production Total Est MAvg,u,RI
+CRPON03,OPEC Crude Production Indonesia Est MAvg,u,RI
+CRPOO03,OPEC Crude Production Gabon Est MAvg,u,RI
+CRPOP03,OPEC Crude Production Equatorial Guinea Est MAvg,u,RI
+CRPOQ03,OPEC Crude Production Congo-Brazzaville Est MAvg,u,RI
+DBVBM00,Dated Brent vs Brent Mo01 Intermonth Spread,"l,h,c",RI
+FAFWA00,Crude Freight Adjustment Factor (FAF) Weighting UK Continent-UK Continent,u,RI
+FHPRM00,Crude FAF Hound Point-Rotterdam $/bbl,c,RI
+FHPRM03,Crude FAF Hound Point-Rotterdam $/bbl MAvg,c,RI
+FMGRM00,Crude FAF Mongstad-Rotterdam $/bbl,c,RI
+FMGRM03,Crude FAF Mongstad-Rotterdam $/bbl MAvg,c,RI
+FSFRM00,Crude FAF Scapa Flow-Rotterdam $/bbl,c,RI
+FSFRM03,Crude FAF Scapa Flow-Rotterdam $/bbl MAvg,c,RI
+FSTRM00,Crude FAF Sture-Rotterdam $/bbl,c,RI
+FSTRM03,Crude FAF Sture-Rotterdam $/bbl MAvg,c,RI
+FSVRM00,Crude FAF Sullom Voe-Rotterdam $/bbl,c,RI
+FSVRM03,Crude FAF Sullom Voe-Rotterdam $/bbl MAvg,c,RI
+FTSRM00,Crude FAF Teesside-Rotterdam $/bbl,c,RI
+FTSRM03,Crude FAF Teesside-Rotterdam $/bbl MAvg,c,RI
+PBAM1M2,Cash BFOE London 10:30 Mo01/Mo02,c,RI
+PBAM2M3,Cash BFOE London 10:30 Mo02/Mo03,c,RI
+PBBM1M2,Cash BFOE London 12:30 Mo01/Mo02,c,RI
+PBBM2M3,Cash BFOE London 12:30 Mo02/Mo03,c,RI
+PBCAAM1,Cash BFOE London 10:30 Mo01,c,RI
+PBCAAM2,Cash BFOE London 10:30 Mo02,c,RI
+PBCAAM3,Cash BFOE London 10:30 Mo03,c,RI
+PBCABM1,Cash BFOE London 12:30 Mo01,c,RI
+PBCABM2,Cash BFOE London 12:30 Mo02,c,RI
+PBCABM3,Cash BFOE London 12:30 Mo03,c,RI
+PBCACM1,Cash BFOE London 14:30 Mo01,c,RI
+PBCACM2,Cash BFOE London 14:30 Mo02,c,RI
+PBCACM3,Cash BFOE London 14:30 Mo03,c,RI
+PBCADM1,Cash BFOE London 19:30 Mo01,c,RI
+PBCADM2,Cash BFOE London 19:30 Mo02,c,RI
+PBCADM3,Cash BFOE London 19:30 Mo03,c,RI
+PBCM1M2,Cash BFOE London 14:30 Mo01/Mo02,c,RI
+PBCM2M3,Cash BFOE London 14:30 Mo02/Mo03,c,RI
+PBDM1M2,Cash BFOE London 19:30 Mo01/Mo02,c,RI
+PBDM2M3,Cash BFOE London 19:30 Mo02/Mo03,c,RI
+PCAAQ00,Brent Mo01,"l,h,c",RI
+PCAAR00,Brent Mo02,"l,h,c",RI
+PCAAS00,Dated Brent,"l,h,c",RI
+PCABC00,Forcados FOB Nigeria,"l,h,c",RI
+PCACA00,Suez Blend FOB Egypt,"l,h,c",RI
+PCACE00,Urals CIF Med,"l,h,c",RI
+PCACO00,Es Sider FOB Libya,"l,h,c",RI
+PCACZ00,Flotta Gold FOB North Sea,"l,h,c",RI
+PCADI00,Ekofisk FOB North Sea,"l,h,c",RI
+PCADJ00,Forties FOB North Sea,"l,h,c",RI
+PCAEE00,Statfjord FOB North Sea,"l,h,c",RI
+PCAEU00,Oseberg FOB North Sea,"l,h,c",RI
+PCAFD00,Cabinda FOB Angola,"l,h,c",RI
+PCAFW00,Urals CIF Rdam,"l,h,c",RI
+PCAIC00,Bonny Light FOB Nigeria London,"l,h,c",RI
+PCAID00,Qua Iboe FOB Nigeria,"l,h,c",RI
+PCAJ000,Brent Mo03 Spore,c,RI
+PCAJ003,Brent Mo03 Spore MAvg,c,RI
+PCAJG00,Brent Mo01 Spore,"l,h,c",RI
+PCAJI00,Brent Mo02 Spore,"l,h,c",RI
+PCAKM00,Dated Brent CIF Rotterdam $/Bbl,c,RI
+PCAKM03,Dated Brent CIF Rotterdam $/Bbl MAvg,c,RI
+PCAKN00,Dated Brent CIF Rotterdam Eur/Bbl,c,RI
+PCAKN03,Dated Brent CIF Rotterdam Eur/Bbl MAvg,c,RI
+PCAKP00,BNB CIF Rotterdam $/Bbl,c,RI
+PCAKP03,BNB CIF Rotterdam $/Bbl MAvg,c,RI
+PCAKQ00,BNB CIF Rotterdam Eur/Bbl,c,RI
+PCAKQ03,BNB CIF Rotterdam Eur/Bbl MAvg,c,RI
+PCAKR00,Forties CIF Rotterdam $/Bbl,c,RI
+PCAKR03,Forties CIF Rotterdam $/Bbl MAvg,c,RI
+PCAKS00,Forties CIF Rotterdam Eur/Bbl,c,RI
+PCAKS03,Forties CIF Rotterdam Eur/Bbl MAvg,c,RI
+PCAKT00,Oseberg CIF Rotterdam $/Bbl,c,RI
+PCAKT03,Oseberg CIF Rotterdam $/Bbl MAvg,c,RI
+PCAKU00,Oseberg CIF Rotterdam Eur/Bbl,c,RI
+PCAKU03,Oseberg CIF Rotterdam Eur/Bbl MAvg,c,RI
+PCAKV00,Ekofisk CIF Rotterdam $/Bbl,c,RI
+PCAKV03,Ekofisk CIF Rotterdam $/Bbl MAvg,c,RI
+PCAKW00,Ekofisk CIF Rotterdam Eur/Bbl,c,RI
+PCAKW03,Ekofisk CIF Rotterdam Eur/Bbl MAvg,c,RI
+PCALA00,Grane Blend FOB North Sea,c,RI
+PCALA03,Grane Blend FOB North Sea MAvg,c,RI
+PCALB00,Grane Blend FOB North Sea vs North Sea Dtd Strip,c,RI
+PCALB03,Grane Blend FOB North Sea vs North Sea Dtd Strip MAvg,c,RI
+PCARR00,Brent Mo03,c,RI
+PCARR03,Brent Mo03 MAvg,c,RI
+PCNGA00,Akpo FOB Nigeria,"l,h,c",RI
+PCNGA03,Akpo FOB Nigeria MAvg,"l,h,c",RI
+PCNGB00,Akpo FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+PCNGB03,Akpo FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+PCNGC00,Bonga FOB Nigeria,"l,h,c",RI
+PCNGC03,Bonga FOB Nigeria MAvg,"l,h,c",RI
+PCNGD00,Bonga FOB Nigeria vs WAF Dtd Strip,"l,h,c",RI
+PCNGD03,Bonga FOB Nigeria vs WAF Dtd Strip MAvg,"l,h,c",RI
+PCNGE00,Djeno FOB Republic of Congo,"l,h,c",RI
+PCNGE03,Djeno FOB Republic of Congo MAvg,"l,h,c",RI
+PCNGF00,Djeno FOB Republic of Congo vs WAF Dtd Strip,"l,h,c",RI
+PCNGF03,Djeno FOB Republic of Congo vs WAF Dtd Strip MAvg,"l,h,c",RI
+PCNGG00,Pazflor FOB Angola,"l,h,c",RI
+PCNGG03,Pazflor FOB Angola MAvg,"l,h,c",RI
+PCNGH00,Pazflor FOB Angola vs 30-60 Day Dated Strip,"l,h,c",RI
+PCNGH03,Pazflor FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
+PCNGI00,Plutonio FOB Angola,"l,h,c",RI
+PCNGI03,Plutonio FOB Angola MAvg,"l,h,c",RI
+PCNGJ00,Plutonio FOB Angola vs Angola Dtd Strip,"l,h,c",RI
+PCNGJ03,Plutonio FOB Angola vs Angola Dtd Strip MAvg,"l,h,c",RI
